@@ -1,0 +1,1 @@
+const flipBool=b=> b ? 0 : 1;
